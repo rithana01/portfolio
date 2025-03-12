@@ -1,22 +1,45 @@
-# Data Scientist
+# 👋 Hi, I'm Rithana! | Aspiring Data Scientist  
 
-### Education
-M.S. Data Science, University of Malaya (2024-2026)
-BSc. Genetics, University of Malaya (2020-2024)
-Mandarin Language, National Taiwan Normal University (2024-2025)
+🚀 Passionate about **AI and data-driven problem-solving**.  
+🔬 Background in **Genetics, Bioinformatics, and Data Science**.  
+🎯 Bridging the gap between **technology and life sciences**.  
 
-### Work Experience
-Accreditation Officer @ Department of Standards Malaysia
-• Evaluated and assisted in accreditation of certification bodies to ensure they meet national and international standards.
-• Observed thorough assessments and audits to verify compliance with accreditation requirements.
-• Provided guidance and support to conformity assessment bodies to enhance their quality management systems.
-• Collaborated with stakeholders to promote accreditation to enhance trust and reliability in products, services, and systems.
-• Uphold the integrity and impartiality of accreditation activities to foster confidence in conformity assessment results.
+---
 
-Laboratory Technician @ National Population and Family Development Board (LPPKN) · Internship
-• Assisted in sample preparation, analysis, and data collection for a wide range of laboratory tests and studies.
-• Operated laboratory equipment and instruments, ensuring their proper maintenance and calibration.
-• Performed multiple sperm analyses of patients and sperm preparation for IUI such as the swim-up technique, contributing to the laboratory's role in reproductive health and family planning.
+## 🎓 Education  
+📍 **M.S. Data Science**, University of Malaya *(2024-2026)*  
+📍 **BSc. Genetics**, University of Malaya *(2020-2024)*  
+📍 **Mandarin Language**, National Taiwan Normal University *(2024-2025)*  
+
+---
+
+## 💼 Work Experience  
+
+### 🔹 Accreditation Officer | Department of Standards Malaysia  
+- Evaluated **certification bodies** for compliance with national & international standards.  
+- Conducted audits and provided guidance to enhance **quality management systems**.  
+- Collaborated with stakeholders to promote **trust and reliability** in accreditation.  
+
+### 🔹 Laboratory Technician (Intern) | National Population and Family Development Board (LPPKN)  
+- Assisted in **sample preparation, data collection, and analysis** for laboratory tests.  
+- Operated and maintained **laboratory equipment**.  
+- Conducted **sperm analysis & IUI preparation** using techniques like *swim-up*.  
+
+---
+
+## 🔬 Skills & Interests  
+💡 **Tech Stack**: Python, R, SQL, Machine Learning, Deep Learning, Data Visualization  
+📊 **Interests**: AI in Biotech, Computer Vision, NLP, Bioinformatics  
+🌱 **Languages**: English, Malay, Mandarin, Tamil, Korean 
+
+---
+
+### 🚀 Featured Projects  
+📌 [Customer Churn Prediction](https://github.com/yourusername/customer-churn) - Machine Learning & Deep Learning for churn analysis.  
+📌 [Bioinformatics Analysis](https://github.com/yourusername/bioinformatics-project) - Genetic data analysis with R & Python.  
+
+---
+
 
 ### Projects
 ### Predictive Modeling for Telco Customer Retention
