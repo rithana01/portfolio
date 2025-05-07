@@ -1,18 +1,33 @@
 # 👋 Hi, I'm Rithana! | Aspiring Data Scientist  
 
-🚀 Passionate about **AI and data-driven problem-solving**.  
-🔬 Background in **Genetics, Bioinformatics, and Data Science**.  
-🎯 Bridging the gap between **technology and life sciences**.  
+Aspiring Data/AI Scientist with a background in genetics and bioinformatics, pursuing a Master’s in Data Science at the University of Malaya. Experienced in predictive modelling, biomedical data analysis, and AI-driven solutions using Python and deep learning frameworks. Skilled at translating complex datasets into actionable insights and collaborating with cross-functional teams. Seeking a Data Scientist or AI Engineer role to apply machine learning and cloud-based solutions to real-world challenges.
 
 ---
 
 ## 🎓 Education  
-📍 **M.S. Data Science**, University of Malaya *(2024-2026)*  
-📍 **BSc. Genetics**, University of Malaya *(2020-2024)*  
+📍 **Master of Data Science, 2024–2026 (ongoing)**, University of Malaya (UM), Kuala Lumpur. 
+CGPA:3.64/ 4.0
+Among subjects taken: Machine Learning for Data Science, Programming for Data Science, Data Mining, Big Data Management, Data Analytics, Research Methodology, Network and Security.
+
+📍 **Bachelor of Science in Genetics (Hons)**, 2020-2024, University of Malaya (UM), Kuala Lumpur.
+CGPA:3.61/ 4.0
+Among subjects taken: Bioinformatics & Phylogenetics, Biostatistics, Human Genetics, Immunogenetics, Molecular Genetics, Microbial Genetics, Plant Molecular Genetics.
+
 📍 **Mandarin Language**, National Taiwan Normal University *(2024-2025)*  
 
 ---
+## Certification
 
+**Certified Associate in Prompt Engineering** – TalentLabs | May 2025
+-	Gained hands-on experience in prompt design, in-context learning, ethical AI, and LLMs application.
+**AI For MY Future** – Microsoft | Mar 2025
+-	Explored AI applications, responsible AI principles, and workflows using Microsoft Azure tools.
+**Mandarin Language**, National Taiwan Normal University | Sep 2024 - Jan 2025
+- Improved my Mandarin language speaking, writing, and reading in Mandarin Training Center, NTNU
+**R Programming for Statistics and Data Science** – Human Resource Development Corporation | Sep 2021
+-	Trained in R for data manipulation, statistical analysis, and visualization; ggplot2, dplyr, and caret.
+
+---
 ## 💼 Work Experience  
 
 ### 🔹 Accreditation Officer | Department of Standards Malaysia  
