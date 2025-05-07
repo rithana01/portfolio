@@ -6,17 +6,14 @@ Skilled at translating complex datasets into actionable insights and collaborati
 Seeking a Data Scientist or AI Engineer role to apply machine learning and cloud-based solutions to real-world challenges.
 
 ---
+## 🔬 Skills & Interests  
+💡 **Languages & Tools**: Python (Intermediate), R (Intermediate), SQL, Visual Studio Code, Jupyter Notebook, Git.
 
-## 🎓 Education  
-📍 **Master of Data Science, 2024–2026 (ongoing)**, University of Malaya (UM), Kuala Lumpur. 
-CGPA:3.64/ 4.0
+📚 **Libraries**: scikit-learn, TensorFlow, PyTorch, Pandas, NumPy, Tableau, Pandas, Matplotlib, Seaborn.
 
-Among subjects taken: Machine Learning for Data Science, Programming for Data Science, Data Mining, Big Data Management, Data Analytics, Research Methodology, Network and Security.
+📊 **AI/ML**: Predictive Modelling, Transformers, SHAP, Clustering, LLMs (HuggingFace).
 
-📍 **Bachelor of Science in Genetics (Hons)**, 2020-2024, University of Malaya (UM), Kuala Lumpur.
-CGPA:3.61/ 4.0
-
-Among subjects taken: Bioinformatics & Phylogenetics, Biostatistics, Human Genetics, Immunogenetics, Molecular Genetics, Microbial Genetics, Plant Molecular Genetics.
+🌱 **Languages**: Bahasa Malaysia (Excellent), English (Excellent), Mandarin (Intermediate), Tamil (Conversational), Cantonese (Conversational)
 
 ---
 ## 📜 Certification
@@ -32,6 +29,18 @@ Among subjects taken: Bioinformatics & Phylogenetics, Biostatistics, Human Genet
   
 **R Programming for Statistics and Data Science** – Human Resource Development Corporation | Sep 2021
 -	Trained in R for data manipulation, statistical analysis, and visualization; ggplot2, dplyr, and caret.
+
+---
+## 🎓 Education  
+📍 **Master of Data Science, 2024–2026 (ongoing)**, University of Malaya (UM), Kuala Lumpur. 
+CGPA:3.64/ 4.0
+
+Among subjects taken: Machine Learning for Data Science, Programming for Data Science, Data Mining, Big Data Management, Data Analytics, Research Methodology, Network and Security.
+
+📍 **Bachelor of Science in Genetics (Hons)**, 2020-2024, University of Malaya (UM), Kuala Lumpur.
+CGPA:3.61/ 4.0
+
+Among subjects taken: Bioinformatics & Phylogenetics, Biostatistics, Human Genetics, Immunogenetics, Molecular Genetics, Microbial Genetics, Plant Molecular Genetics.
 
 ---
 ## 💼 Work Experience  
@@ -60,16 +69,6 @@ Among subjects taken: Bioinformatics & Phylogenetics, Biostatistics, Human Genet
 
 ---
 
-## 🔬 Skills & Interests  
-💡 **Languages & Tools**: Python (Intermediate), R (Intermediate), SQL, Visual Studio Code, Jupyter Notebook, Git.
-
-📚 **Libraries**: scikit-learn, TensorFlow, PyTorch, Pandas, NumPy, Tableau, Pandas, Matplotlib, Seaborn.
-
-📊 **AI/ML**: Predictive Modelling, Transformers, SHAP, Clustering, LLMs (HuggingFace).
-
-🌱 **Languages**: Bahasa Malaysia (Excellent), English (Excellent), Mandarin (Intermediate), Tamil (Conversational), Cantonese (Conversational)
-
----
 ## 💻 Main Projects
 
 **Development of an Adaptive and Explainable Chronic Kidney Disease (CKD) Diagnostic Model** | Apr 2025 - Sep 2025
