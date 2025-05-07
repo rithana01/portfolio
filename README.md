@@ -70,7 +70,7 @@ Among subjects taken: Bioinformatics & Phylogenetics, Biostatistics, Human Genet
 | Age-Stratified Analysis of Cardiovascular Disease Risk Factors         | Investigated health risk factors across age groups using statistical analysis and data modeling.                | Python, Pandas, Matplotlib                                    |
 | A Comparative Study on Road Accidents                                  | Compared accident trends across states using public datasets for insights into frequency and severity.          | R, Excel, Seaborn                                           |
 | Seaport Throughput Prediction Using Machine Learning                   | Benchmarked ML models to forecast cargo movement and port usage across multiple ports.                          | WEKA, Python, Linear Regression, Random Forest                         |
-| Generative AI-Based Sentiment Analysis on Simulated Patient Dataset    | Applied LLM-based sentiment analysis on synthetic vital signs data and compared with SLM results.               | Python, HuggingFace Transformers, LLMs, NumPy, Matplotlib        |
+| Generative AI-Based Sentiment Analysis on Simulated Patient Dataset (https://colab.research.google.com/drive/1RVaT-pwIKHSyubitIybXxE5MC-9z2ivy?usp=sharing)    | Applied LLM-based sentiment analysis on synthetic vital signs data and compared with SLM results.               | Python, HuggingFace Transformers, LLMs, NumPy, Matplotlib        |
 
 ---
 ---
@@ -97,6 +97,7 @@ Among subjects taken: Bioinformatics & Phylogenetics, Biostatistics, Human Genet
 • Analysed and improved marketing strategy performance across 5+ channels, contributing to a 15% increase in platform sign-ups during the internship period.
 
 • Oversaw on-ground logistics as Floor Manager for the InvestingNote Summit 2022 at TARUC Campus, attended by 200+ participants.
+
 ---
 
 📌 Check out the full code and analysis in this repository! 🚀
