@@ -62,6 +62,8 @@ Among subjects taken: Bioinformatics & Phylogenetics, Biostatistics, Human Genet
 - Investigated inverted repeat motifs in the Epstein-Barr Virus (EBV) circular RNA, circBHLF1, through comparative sequence analysis and mutational modeling as my BSc final year project. 
 
 ---
+## 💼 Mini projects
+
 | Project                                                                                                                                                      | Description                                                                                            | Tools Used                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ | --------------------------------------------------------- |
 | [Predictive Modeling for Telco Customer Retention](https://colab.research.google.com/drive/1IshkmsInWMMLyNWzzoCASvF4-zlcK2V7?usp=sharing)                    | Developed classification models to identify churn-prone customers using telecom usage patterns.        | Python, scikit-learn, EDA, Data Visualization             |
@@ -100,4 +102,4 @@ Among subjects taken: Bioinformatics & Phylogenetics, Biostatistics, Human Genet
 
 ---
 
-📌 Check out the full code and analysis in this repository! 🚀
+📌 How to reach me? Email; rithana0904@gmail.com
