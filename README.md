@@ -9,7 +9,7 @@ Seeking a Data Scientist or AI Engineer role to apply machine learning and cloud
 ## 🔬 Skills & Interests  
 💡 **Languages & Tools**: Python (Intermediate), R (Intermediate), SQL, Visual Studio Code, Jupyter Notebook, Git.
 
-📚 **Libraries**: scikit-learn, TensorFlow, PyTorch, Pandas, NumPy, Tableau, Pandas, Matplotlib, Seaborn.
+📚 **Libraries**: PowerBI, Dataverse, scikit-learn, TensorFlow, PyTorch, Pandas, NumPy, Tableau, Pandas, Matplotlib, Seaborn.
 
 📊 **AI/ML**: Predictive Modelling, Transformers, SHAP, Clustering, LLMs (HuggingFace).
 
@@ -70,7 +70,7 @@ Among subjects taken: Bioinformatics & Phylogenetics, Biostatistics, Human Genet
 | [Age-Stratified Analysis of Cardiovascular Disease Risk Factors](https://colab.research.google.com/drive/1WNjDXY96sAmZIFt_i2HUlg45NbOkmNrR?usp=sharing)      | Investigated health risk factors across age groups using statistical analysis and data modeling.       | Python, Pandas, Matplotlib                                |
 | [A Comparative Study on Road Accidents](https://colab.research.google.com/drive/18hw1NfIoZ1Q5ld7D9Yz7UATqzfLg5UXZ?usp=sharing)                               | Compared accident trends across states using public datasets for insights into frequency and severity. | R, Excel, Seaborn                                         |
 | Seaport Throughput Prediction Using Machine Learning                                                                                                         | Benchmarked ML models to forecast cargo movement and port usage across multiple ports.                 | WEKA, Python, Linear Regression, Random Forest            |
-| [Generative AI-Based Sentiment Analysis on Simulated Patient Dataset](https://colab.research.google.com/drive/1RVaT-pwIKHSyubitIybXxE5MC-9z2ivy?usp=sharing) | Applied LLM-based sentiment analysis on synthetic vital signs data and compared with SLM results.      | Python, HuggingFace Transformers, LLMs, NumPy, Matplotlib |
+| [End-to-End AI Pipeline for Synthetic Patient Monitoring](https://colab.research.google.com/drive/1qM9KHl45F-RIxHhZ3deN9Lb08r4rRmOk?usp=sharing) | Applied LLM-based sentiment analysis on synthetic vital signs data and predicted the models using advanced transformers.      | Python, HuggingFace Transformers, LLMs, NumPy, Matplotlib |
 | [Tic-Tac-Toe Python CLI Game](https://github.com/YOUR_USERNAME/tic-tac-toe-python)                                                                           | Developed a classic Tic-Tac-Toe game for the command line with replay and full input validation.       | Python, CLI, Unittest, Procedural Programming             |
 | [Interactive Video Game Sales Dashboard](https://public.tableau.com/app/profile/rithana.g/viz/finalresult_17480256431550/Dashboard3)                         | Designed a Tableau dashboard visualizing global video game sales trends and platform breakdowns.       | Tableau, Data Visualization, Dashboard Design             |
 
