@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rithana! | Aspiring Data Scientist  
 
-Aspiring Business Analyst 7 AI Specialist with a background in genetics and bioinformatics, pursuing a Master’s in Data Science at the University of Malaya. 
+Aspiring Business Analyst & AI Specialist with a background in genetics and bioinformatics, pursuing a Master’s in Data Science at the University of Malaya. 
 Experienced in predictive modelling, biomedical data analysis, and AI-driven solutions using Python and deep learning frameworks. 
 Skilled at translating complex datasets into actionable insights and collaborating with cross-functional teams. 
 Seeking a Data Scientist or AI Engineer role to apply machine learning and cloud-based solutions to real-world challenges.
@@ -9,27 +9,26 @@ Seeking a Data Scientist or AI Engineer role to apply machine learning and cloud
 ## 🔬 Skills & Interests  
 💡 **Languages & Tools**: Python (Intermediate), R (Intermediate), SQL, Visual Studio Code, Jupyter Notebook, Git.
 
-📚 **Libraries**: PowerBI, Dataverse, scikit-learn, TensorFlow, PyTorch, Pandas, NumPy, Tableau, Pandas, Matplotlib, Seaborn.
+📚 **Libraries**: Power BI, Dataverse, scikit-learn, TensorFlow, PyTorch, Pandas, NumPy, Tableau, Pandas, Matplotlib, Seaborn.
 
 📊 **AI/ML**: Predictive Modelling, Transformers, SHAP, Clustering, LLMs (HuggingFace).
 
 🌱 **Languages**: Bahasa Malaysia (Excellent), English (Excellent), Mandarin (Intermediate), Tamil (Conversational), Cantonese (Conversational)
 
 ---
-## 📜 Certification
 
-**Certified Associate in Prompt Engineering** – TalentLabs | May 2025
--	Gained hands-on experience in prompt design, in-context learning, ethical AI, and LLMs application.
-  
-**AI For MY Future** – Microsoft | Mar 2025
--	Explored AI applications, responsible AI principles, and workflows using Microsoft Azure tools.
-  
-**Mandarin Language**, National Taiwan Normal University | Sep 2024 - Jan 2025
-- Improved my Mandarin language speaking, writing, and reading in the Mandarin Training Center, NTNU
-  
-**R Programming for Statistics and Data Science** – Human Resource Development Corporation | Sep 2021
--	Trained in R for data manipulation, statistical analysis, and visualization; ggplot2, dplyr, and caret.
+## 🏅 Certifications
 
+| Certification Title | Issuing Body | Year | Key Takeaway (BA Focus) |
+| :--- | :--- | :--- | :--- |
+| **Certified Financial Advisor** (Life, Investment, General, Takaful) | AIA Bhd, AIA Takaful & AIA General | (Specific Year) | Demonstrates **deep domain knowledge** in Banking & Financial Services. |
+| **Agile Foundations Certification** | LinkedIn Learning | 2025 | Proficient in **Agile methodology** for project delivery and iteration. |
+| **Essential Power BI Training** | NASBA | 2024 | Expertise in data visualization, reporting, and building **interactive dashboards**. |
+| **Microsoft Azure AI Essentials Professional Certificate: Machine Learning** | Microsoft | 2025 | Foundational knowledge in the **ML lifecycle** and deploying data solutions. |
+| **Certified Associate in Prompt Engineering** | TalentLabs | 2025 | Ability to leverage **AI/LLMs** for efficient business analysis and insights. |
+| **R Programming for Statistics & Data Science** | HRD Corp | 2021 | Skills in **statistical analysis** and data manipulation for quantitative problem-solving. |
+| Data-Driven HR: AI-Powered People Analytics | (Specific Issuing Body) | 2025 | |
+| AI For MY Future | Microsoft | 2025 | |
 ---
 ## 🎓 Education  
 📍 **Master of Data Science, 2024–2026 (ongoing)**, University of Malaya (UM), Kuala Lumpur. 
