@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rithana! | Aspiring Data Scientist  
 
-Aspiring Data/AI Scientist with a background in genetics and bioinformatics, pursuing a Master’s in Data Science at the University of Malaya. 
+Aspiring Business Analyst 7 AI Specialist with a background in genetics and bioinformatics, pursuing a Master’s in Data Science at the University of Malaya. 
 Experienced in predictive modelling, biomedical data analysis, and AI-driven solutions using Python and deep learning frameworks. 
 Skilled at translating complex datasets into actionable insights and collaborating with cross-functional teams. 
 Seeking a Data Scientist or AI Engineer role to apply machine learning and cloud-based solutions to real-world challenges.
@@ -25,7 +25,7 @@ Seeking a Data Scientist or AI Engineer role to apply machine learning and cloud
 -	Explored AI applications, responsible AI principles, and workflows using Microsoft Azure tools.
   
 **Mandarin Language**, National Taiwan Normal University | Sep 2024 - Jan 2025
-- Improved my Mandarin language speaking, writing, and reading in Mandarin Training Center, NTNU
+- Improved my Mandarin language speaking, writing, and reading in the Mandarin Training Center, NTNU
   
 **R Programming for Statistics and Data Science** – Human Resource Development Corporation | Sep 2021
 -	Trained in R for data manipulation, statistical analysis, and visualization; ggplot2, dplyr, and caret.
@@ -33,7 +33,7 @@ Seeking a Data Scientist or AI Engineer role to apply machine learning and cloud
 ---
 ## 🎓 Education  
 📍 **Master of Data Science, 2024–2026 (ongoing)**, University of Malaya (UM), Kuala Lumpur. 
-CGPA:3.64/ 4.0
+CGPA:3.79/ 4.0
 
 Among subjects taken: Machine Learning for Data Science, Programming for Data Science, Data Mining, Big Data Management, Data Analytics, Research Methodology, Network and Security.
 
