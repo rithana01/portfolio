@@ -21,13 +21,13 @@ Seeking a Data Scientist or AI Engineer role to apply machine learning and cloud
 
 | Certification Title | Issuing Body | Year | Key Takeaway (BA Focus) |
 | :--- | :--- | :--- | :--- |
-| **Certified Financial Advisor** (Life, Investment, General, Takaful) | AIA Bhd, AIA Takaful & AIA General | (Specific Year) | Demonstrates **deep domain knowledge** in Banking & Financial Services. |
+| **Certified Financial Advisor** (Life, Investment, General, Takaful) | AIA Bhd, AIA Takaful & AIA General | 2025 | Demonstrates **deep domain knowledge** in Banking & Financial Services. |
 | **Agile Foundations Certification** | LinkedIn Learning | 2025 | Proficient in **Agile methodology** for project delivery and iteration. |
 | **Essential Power BI Training** | NASBA | 2024 | Expertise in data visualization, reporting, and building **interactive dashboards**. |
 | **Microsoft Azure AI Essentials Professional Certificate: Machine Learning** | Microsoft | 2025 | Foundational knowledge in the **ML lifecycle** and deploying data solutions. |
 | **Certified Associate in Prompt Engineering** | TalentLabs | 2025 | Ability to leverage **AI/LLMs** for efficient business analysis and insights. |
 | **R Programming for Statistics & Data Science** | HRD Corp | 2021 | Skills in **statistical analysis** and data manipulation for quantitative problem-solving. |
-| Data-Driven HR: AI-Powered People Analytics | (Specific Issuing Body) | 2025 | |
+| Data-Driven HR: AI-Powered People Analytics | Linkedin Learning | 2025 | |
 | AI For MY Future | Microsoft | 2025 | |
 ---
 ## 🎓 Education  
